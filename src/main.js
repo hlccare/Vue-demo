@@ -1,5 +1,4 @@
 // import Vue from 'vue'
-// import App from './App.vue'
 const Vue = window.Vue
 window.Vue.config.productionTip = false
 import Demo from './demo.vue'
